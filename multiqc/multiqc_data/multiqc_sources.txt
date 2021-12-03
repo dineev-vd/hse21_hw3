@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR3414636_1	/home/vladislav/hse21_hw3/rna_seq_2021/SRR3414636_1_fastqc.zip
+FastQC	all_sections	SRR3414631_1	/home/vladislav/hse21_hw3/rna_seq_2021/SRR3414631_1_fastqc.zip
+FastQC	all_sections	SRR3414630_1	/home/vladislav/hse21_hw3/rna_seq_2021/SRR3414630_1_fastqc.zip
+FastQC	all_sections	SRR3414637_1	/home/vladislav/hse21_hw3/rna_seq_2021/SRR3414637_1_fastqc.zip
+FastQC	all_sections	SRR3414629_1	/home/vladislav/hse21_hw3/rna_seq_2021/SRR3414629_1_fastqc.zip
+FastQC	all_sections	SRR3414635_1	/home/vladislav/hse21_hw3/rna_seq_2021/SRR3414635_1_fastqc.zip
